@@ -14,21 +14,23 @@
 ### Step 1:- Check all Electrical connections.
 
 ### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5dced112-6d07-4440-ac1a-90f0f20a3747)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/a3c75e3a-b115-4362-9dc1-6dbc0ae15c19)
+
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5bafbc04-cba1-4f54-912e-2da7bc25bfd0)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/ab716f03-d1c6-4a03-ae00-c80f6a37f928)
+
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/ef0e9092-2f22-475b-a929-3e791b0c2efc)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/058e1444-2225-4321-923e-e2c53def2a7d)
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1609cec7-f601-47d2-a72f-5cae901df80d)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/05abadec-5b16-44a2-bec8-d17cd43dfe4c)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/a3a85ae4-6d66-41ce-a01c-49c083e342e9)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/81438ae4-c7ef-4129-b6c8-e763cc20c0b3)
 
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/b658e84f-a22c-4ad3-8a93-0a1273a75467)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/87c5302d-5113-41ed-aed5-0ef266bbf202)
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -40,13 +42,13 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/7bab16c8-a81b-4cc0-b949-c554c2a0049e)
+![kunai-3d-rendering-isolated-on-white-background-GDYNHB](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/c2c088a1-1f27-4d1e-88f7-8d7a7bbcc12e)
 
 ### Output:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c226f91f-2c31-438c-97f4-fc84f72d46d8)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/56fc375c-dcfd-4eed-bce1-a8edf0e1d17d)
 
 
-### Name: PAIDA RAMSAI
+### Name: paida ram sai
 ### Register Number: 212223110034
 
 ## RESULT:
